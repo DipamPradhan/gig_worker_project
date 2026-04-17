@@ -2,6 +2,9 @@
 __pycache__/
 db.sqlite3
 *.pyc
-.venv/
 staticfiles/
 media/
+
+.venv
+
+.venv/.
